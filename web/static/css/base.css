@@ -1,0 +1,13 @@
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+    
+}
+body {
+    background-image: url("./img/school.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #CCCCCC;
+}
